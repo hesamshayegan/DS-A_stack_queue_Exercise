@@ -63,7 +63,7 @@
 
 // module.exports = Queue;
 
-
+// second solution
 class Node {
   constructor(val) {
     this.val = val;

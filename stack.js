@@ -68,7 +68,7 @@
 // module.exports = Stack;
 
 
-// 2nd
+// second solutions
 
 class Node {
   constructor(val) {
